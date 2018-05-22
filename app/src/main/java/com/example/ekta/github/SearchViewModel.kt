@@ -19,6 +19,7 @@ class SearchViewModel : ViewModel() {
 
     var observable: Observable<String>? = null
 
+
     /*fun getDataToBeSearch(searchKeyword: String): Observable<String> {
 
         *//*io.reactivex.Observable.just(searchKeyword)
