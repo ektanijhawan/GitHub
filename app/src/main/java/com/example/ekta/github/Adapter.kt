@@ -7,9 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import kotlinx.android.synthetic.main.item_result.view.*
 
-/**
- * Created by Grappus on 09/05/18.
- */
+
 class Adapter(val context: Context) : RecyclerView.Adapter<Adapter.ViewHolder>() {
 
     var list : ArrayList<Repo> ?= null

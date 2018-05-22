@@ -3,9 +3,6 @@ package com.example.ekta.github
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName
 
-/**
- * Created by Grappus on 13/05/18.
- */
 class Repo {
 
     @SerializedName("id")

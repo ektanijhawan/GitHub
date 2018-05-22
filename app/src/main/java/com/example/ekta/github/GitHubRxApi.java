@@ -8,9 +8,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 import retrofit2.http.Query;
 
-/**
- * Created by Grappus on 11/05/18.
- */
 
 public interface GitHubRxApi {
 

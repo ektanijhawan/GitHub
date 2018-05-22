@@ -4,9 +4,7 @@ import android.app.Activity
 import android.os.Bundle
 import android.util.Log
 
-/**
- * Created by Grappus on 14/05/18.
- */
+
 
 class ConverterActivity : Activity() {
 

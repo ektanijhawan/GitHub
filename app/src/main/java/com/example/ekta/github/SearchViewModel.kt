@@ -9,9 +9,6 @@ import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 
 
-/**
- * Created by Grappus on 09/05/18.
- */
 class SearchViewModel : ViewModel() {
 
 
